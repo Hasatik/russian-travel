@@ -1,0 +1,22 @@
+.footer__content{
+    margin-top: 32px;
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+.footer__content:nth-child(1){
+    margin-top: 0;
+}
+.footer__content:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+@media screen and (min-width: 768px) {
+    .footer__content {
+       /* display: inline-block; */
+       margin: 0 18px 0 0;
+    }
+
+    .footer__content:last-child{
+    margin-right: 0;
+    }
+}

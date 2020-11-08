@@ -22,6 +22,7 @@
 
 @media screen and (min-width: 1280px) {
     .photo-grid {
+        grid-template-columns: repeat(4, minmax(284px, 1fr));
         gap: 16px;
     }
 }

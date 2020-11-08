@@ -31,6 +31,7 @@
 
 @media screen and (min-width: 1280px) {
     .lead__subtitle {
-        margin: 32px 320px 64px;
+        margin: 32px 172px 64px;
+        max-width: 560px;
     }
 }
