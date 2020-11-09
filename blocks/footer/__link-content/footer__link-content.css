@@ -8,3 +8,9 @@
     text-decoration: none;
     text-align: center;
 }
+@media screen and (min-width:768px){
+    .footer__link-content{
+        font-size: 16px;
+        line-height: 18px;
+    }
+}

@@ -31,3 +31,8 @@
 .cover__overlay:hover {
     cursor: pointer;
 }
+@media screen and (min-width: 1280px) {
+    .cover__overlay {
+        min-height: 740px;
+    }   
+}
