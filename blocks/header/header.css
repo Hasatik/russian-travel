@@ -4,6 +4,7 @@
     min-width: 288px;
     display: flex;
     justify-content: space-between;
+    /* max-width: 1280px; */
 }
 @media screen and (min-width:768px){
  .header{
@@ -15,6 +16,7 @@
 
 @media screen and (min-width: 1024px){
     .header{
-        padding:48px 0 0;
+        padding: 28px 0 0;
+        margin: 0 48px 0;
     }
 }

@@ -20,12 +20,12 @@
     left: 0;
     bottom: 0;
     background-color: #2A2C2F;
-    opacity: .2;
+    opacity: .3;
     transition: opacity 0.5s ease;
 }
 
 .cover__overlay:hover:before {
-    opacity: .5;
+    opacity: .8;
 }
 
 .cover__overlay:hover {

@@ -8,3 +8,5 @@
 
 Адаптив под расширения до 768px, 1024px и больших экранов.
  Открывайте и наслаждайтесь
+
+ Link: https://hasatik.github.io/russian-travel/
