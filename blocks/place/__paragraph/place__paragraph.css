@@ -1,7 +1,7 @@
 .place__paragraph{
     display: block;
-    margin: 0 16px 25px;
-    padding: 0;
+    margin:0 16px 25px;
+    padding: 0; 
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -10,6 +10,7 @@
     color: #FFFFFF;
 }
 .place__paragraph:last-child{
+    /* margin-top: 0; */
     margin-bottom: 0px;
 }
 
@@ -22,5 +23,6 @@
 @media screen and (min-width:1024px) {
     .place__paragraph{
         font-size: 18px;
+        line-height: 29px;
     }
 }
