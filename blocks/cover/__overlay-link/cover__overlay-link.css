@@ -35,7 +35,13 @@
 
 @media screen and (min-width: 1024px) {
     .cover__overlay-link{
-        min-height: 740px;
+        min-height: 640px;
     }
     
+}
+
+@media screen and (min-width:1280px) {
+    .cover__overlay-link{
+        min-height: 740px;
+    }
 }
